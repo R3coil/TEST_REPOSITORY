@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Hitbox.png</Source>
+      <Name>Hitbox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\Hitbox.xnb</Output>
+      <Time>2011-03-19T00:03:55.2422307+01:00</Time>
+    </Item>
+    <Item>
+      <Source>OsakaStage.png</Source>
+      <Name>OsakaStage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\OsakaStage.xnb</Output>
+      <Time>2011-03-19T10:38:02.1396491+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Osaka\Crouch.png</Source>
+      <Name>Osaka\Crouch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\Osaka\Crouch.xnb</Output>
+      <Time>2011-03-28T15:57:32.0525916+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Osaka\Jump.png</Source>
+      <Name>Osaka\Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\Osaka\Jump.xnb</Output>
+      <Time>2011-03-28T15:57:32.0681916+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Osaka\JumpBack.png</Source>
+      <Name>Osaka\JumpBack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\Osaka\JumpBack.xnb</Output>
+      <Time>2011-03-28T15:57:32.0681916+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Osaka\Stand.png</Source>
+      <Name>Osaka\Stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\Osaka\Stand.xnb</Output>
+      <Time>2011-03-28T15:57:32.0681916+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Osaka\WalkBack.png</Source>
+      <Name>Osaka\WalkBack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\Osaka\WalkBack.xnb</Output>
+      <Time>2011-03-28T15:57:32.0681916+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Osaka\WalkForward.png</Source>
+      <Name>Osaka\WalkForward</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\Osaka\WalkForward.xnb</Output>
+      <Time>2011-03-28T15:57:32.0837916+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Osaka\ArialZ.png</Source>
+      <Name>Osaka\ArialZ</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\Osaka\ArialZ.xnb</Output>
+      <Time>2011-03-28T15:57:32.0525916+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Osaka\AtkZ.png</Source>
+      <Name>Osaka\AtkZ</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\Osaka\AtkZ.xnb</Output>
+      <Time>2011-03-28T15:57:32.0525916+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Osaka\AtkX.png</Source>
+      <Name>Osaka\AtkX</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\Osaka\AtkX.xnb</Output>
+      <Time>2011-03-28T15:57:32.0525916+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Osaka\AtkC.png</Source>
+      <Name>Osaka\AtkC</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\Osaka\AtkC.xnb</Output>
+      <Time>2011-03-28T15:57:32.0525916+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Osaka\ArialX.png</Source>
+      <Name>Osaka\ArialX</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\Osaka\ArialX.xnb</Output>
+      <Time>2011-03-28T15:57:32.0525916+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Osaka\ArialC.png</Source>
+      <Name>Osaka\ArialC</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\Osaka\ArialC.xnb</Output>
+      <Time>2011-03-28T15:57:32.0369915+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Kagura\Stand.png</Source>
+      <Name>Kagura\Stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\Kagura\Stand.xnb</Output>
+      <Time>2011-04-01T12:03:10.5673532+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Kagura\WalkForward.png</Source>
+      <Name>Kagura\WalkForward</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\Kagura\WalkForward.xnb</Output>
+      <Time>2011-04-05T11:22:00.525035+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Kagura\WalkBack.png</Source>
+      <Name>Kagura\WalkBack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\Kagura\WalkBack.xnb</Output>
+      <Time>2011-04-05T11:28:34.1688927+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Kagura\Crouch.png</Source>
+      <Name>Kagura\Crouch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\Kagura\Crouch.xnb</Output>
+      <Time>2011-04-05T11:31:29.1642787+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Kagura\Jump.png</Source>
+      <Name>Kagura\Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\Kagura\Jump.xnb</Output>
+      <Time>2011-04-05T11:34:40.7269655+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Kagura\JumpBack.png</Source>
+      <Name>Kagura\JumpBack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\Kagura\JumpBack.xnb</Output>
+      <Time>2011-04-05T11:37:02.6328382+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Kagura\AtkZ.png</Source>
+      <Name>Kagura\AtkZ</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\Kagura\AtkZ.xnb</Output>
+      <Time>2011-04-05T11:47:44.2786048+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGameContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-03-16T10:30:19.1992695+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

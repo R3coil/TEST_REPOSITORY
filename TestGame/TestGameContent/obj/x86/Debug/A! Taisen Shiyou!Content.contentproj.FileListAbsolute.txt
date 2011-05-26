@@ -1,0 +1,2 @@
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGameContent\obj\x86\Debug\ResolveAssemblyReference.cache

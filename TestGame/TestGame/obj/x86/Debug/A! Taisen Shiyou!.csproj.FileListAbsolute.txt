@@ -1,0 +1,55 @@
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\Content\Hitbox.xnb
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\Content\OsakaStage.xnb
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\A! Taisen Shiyou!.exe.manifest
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\A! Taisen Shiyou!.application
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\A! Taisen Shiyou!.exe
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\A! Taisen Shiyou!.pdb
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\obj\x86\Debug\A! Taisen Shiyou!.exe.manifest
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\obj\x86\Debug\A! Taisen Shiyou!.application
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\obj\x86\Debug\A! Taisen Shiyou!.exe
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\obj\x86\Debug\A! Taisen Shiyou!.pdb
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\Content\Osaka\ArialJ.xnb
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\Content\Osaka\AtkJ.xnb
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\Content\Osaka\AtkK.xnb
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\Content\Osaka\AtkL.xnb
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\Content\Osaka\Crouch.xnb
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\Content\Osaka\Jump.xnb
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\Content\Osaka\JumpBack.xnb
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\Content\Osaka\Stand.xnb
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\Content\Osaka\WalkBack.xnb
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\Content\Osaka\WalkForward.xnb
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\Content\Osaka\ArialK.xnb
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\Content\Osaka\ArialL.xnb
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\Hitbox.xnb
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\OsakaStage.xnb
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\Osaka\Crouch.xnb
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\Osaka\Jump.xnb
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\Osaka\JumpBack.xnb
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\Osaka\Stand.xnb
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\Osaka\WalkBack.xnb
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\Osaka\WalkForward.xnb
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\A! Taisen Shiyou!.exe.manifest
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\A! Taisen Shiyou!.application
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\A! Taisen Shiyou!.exe
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\A! Taisen Shiyou!.pdb
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\obj\x86\Debug\A! Taisen Shiyou!.exe.manifest
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\obj\x86\Debug\A! Taisen Shiyou!.application
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\obj\x86\Debug\A! Taisen Shiyou!.exe
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\obj\x86\Debug\A! Taisen Shiyou!.pdb
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\Osaka\ArialZ.xnb
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\Osaka\AtkZ.xnb
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\Osaka\AtkX.xnb
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\Osaka\AtkC.xnb
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\Osaka\ArialX.xnb
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\Osaka\ArialC.xnb
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\Kagura\Stand.xnb
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\Kagura\WalkForward.xnb
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\Kagura\WalkBack.xnb
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\Kagura\Crouch.xnb
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\Kagura\Jump.xnb
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\Kagura\JumpBack.xnb
+C:\Users\Eldin\Documents\Visual Studio 2010\Projects\A! Taisen Shiyou!\TestGame\TestGame\bin\x86\Debug\Content\Kagura\AtkZ.xnb
